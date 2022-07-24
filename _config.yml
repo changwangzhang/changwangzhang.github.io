@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Changwang ZHANG (张长旺)"
+  name             : "Changwang ZHANG <br/> (张长旺)"
   avatar           : "leo_scholar_icon.jpg"
   bio              : "Member of CCF Theoretical Computer Science Technical Committee"
   location         : "Shenzhen, China"
