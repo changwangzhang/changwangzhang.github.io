@@ -26,4 +26,6 @@ Changwang Zhang's research has got lots of media attention and is reported by th
 
 * Z Zheng, **C Zhang**, X Gao, G Chen. HIEN: Hierarchical Intention Embedding Network for Click-Through Rate Prediction. ACM SIGIR Conference on Research and Development in Information Retrieval, 2022. **(SIGIR 2022) (CCF A) ([pdf](/files/2022_sigir_hien.pdf) code)**
 * W Tu, S Zhou, X Liu, Y Liu, Z Cai, E Zhu, **C Zhang**, J Cheng. Initializing Then Refining: A Simple Graph Attribute Imputation Network. International Joint Conference on Artificial Intelligence (IJCAI), 2022. **(IJCAI 2022) (CCF A) ([pdf](/files/2022_ijcai_itr.pdf) [code](https://github.com/WxTu/ITR))**
+* **C Zhang**, S Zhou, E Groppelli, P Pellegrino, I Williams, P Borrow, B M. Chain, C Jolly. Hybrid Spreading Mechanisms and T Cell Activation Shape the Dynamics of HIV-1 Infection. PLOS Computational Biology, 2015. **([pdf](/files/2015_ploscombi_hivhybridspreading.pdf) code)**
+
 
