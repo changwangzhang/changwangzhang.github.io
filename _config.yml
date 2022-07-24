@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Changwang ZHANG"
 title_separator          : "-"
-name                     : &name "Changwang ZHANG (张长旺)"
+name                     : &name "Changwang ZHANG"
 description              : &description "CCF Theoretical Computer Science Technical Committee"
 url                      : https://changwangzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Changwang ZHANG <br/> 张长旺"
+  name             : "Changwang ZHANG"
   avatar           : "leo_scholar_icon.jpg"
   bio              : "Member of CCF Theoretical Computer Science Technical Committee"
   location         : "Shenzhen, China"
