@@ -10,4 +10,5 @@ location: "Macau SAR, China"
 
  **([slides](/files/2019_ijcai_taic.pdf))**
  
+ ![2019-08-14-talk-ijcai-taic](/images/2019_talk_ijcai_booth_talk.jpg)
  ![2019-08-14-talk-ijcai-taic](/images/2019_talk_ijcai_taic.jpg)
