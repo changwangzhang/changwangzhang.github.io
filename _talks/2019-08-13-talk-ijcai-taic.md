@@ -1,7 +1,7 @@
 ---
 title: "Big-data Mining Using Unsupervised Learning and Graph Learning"
 collection: talks
-type: "Talk"
+type: "Conference Panel Talk"
 permalink: /talks/2019-08-13-talk-ijcai-taic
 venue: "IJCAI-19"
 date: 2019-08-13
