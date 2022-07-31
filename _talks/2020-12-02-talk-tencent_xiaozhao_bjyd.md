@@ -8,4 +8,4 @@ date: 2020-12-02
 location: "Beijing, China"
 ---
 
- ![2019-08-14-talk-ijcai-taic](/images/2020_talk_tencent_xiaozhao_bjyd.jpg)
+ ![](/images/2020_talk_tencent_xiaozhao_bjyd.jpg)
