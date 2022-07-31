@@ -1,5 +1,5 @@
 ---
-title: "Tencent Campus Recruitment talk - Beijing University of Posts and Telecommunications"
+title: "Tencent Campus Recruitment Talk - Beijing University of Posts and Telecommunications"
 collection: talks
 type: "Recruitment Talk"
 permalink: /talks/2020-12-02-talk-tencent_xiaozhao_bjyd
