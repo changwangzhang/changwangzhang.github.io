@@ -22,7 +22,7 @@ Changwang Zhang's research has got lots of media attention and is reported by th
 
 ![Changwang ZHANG's WeChat Official Account](/images/mknow_qrcode.png)
 
-# Selected publications
+# Selected Publications
 
 * Z Zheng, **C Zhang**, X Gao, G Chen. HIEN: Hierarchical Intention Embedding Network for Click-Through Rate Prediction. ACM SIGIR Conference on Research and Development in Information Retrieval, 2022. **(SIGIR 2022) (CCF A) ([pdf](/files/2022_sigir_hien.pdf) code)**
 * W Tu, S Zhou, X Liu, Y Liu, Z Cai, E Zhu, **C Zhang**, J Cheng. Initializing Then Refining: A Simple Graph Attribute Imputation Network. International Joint Conference on Artificial Intelligence (IJCAI), 2022. **(IJCAI 2022) (CCF A) ([pdf](/files/2022_ijcai_itr.pdf) [code](https://github.com/WxTu/ITR))**
@@ -32,4 +32,9 @@ Changwang Zhang's research has got lots of media attention and is reported by th
 * S Zhou, X Liu, M Li, E Zhu, L Liu, **C Zhang**, J Yin. Multiple kernel clustering with neighbor-kernel subspace segmentation. IEEE transactions on neural networks and learning systems, 2019. **(TNNLS 2019) (CCF B) ([pdf](/files/2019_tnnls_mkcwnkss.pdf) code)**
 * **C Zhang**, S Zhou, E Groppelli, P Pellegrino, I Williams, P Borrow, B M. Chain, C Jolly. Hybrid Spreading Mechanisms and T Cell Activation Shape the Dynamics of HIV-1 Infection. PLOS Computational Biology, 2015. **(PLoS Comput. Biol. 2015) (CCF B) ([pdf](/files/2015_ploscombi_hivhybridspreading.pdf) code)**
 
+# Selected Talks
 
+* **C Zhang**. Panel Talk: Big-data Mining Using Unsupervised Learning and Graph Learning. IJCAI-Tencent Academic and Industrial Conference, 2019. **([pdf](/files/2019_ijcai_taic.pdf))**
+* **C Zhang**. Tencent Campus Recruitment Talk - Beijing University of Posts and Telecommunications. Beijing University of Posts and Telecommunications, 2020. **(pdf)**
+* **C Zhang**. Tencent Campus Recruitment Talk - Huazhong University of Science and Technology. Huazhong University of Science and Technology, 2021. **(pdf)**
+* **C Zhang**. Tencent Campus Recruitment Talk - Universities in the Western US Region. Universities in the Western US Region, 2021. **(pdf)**
