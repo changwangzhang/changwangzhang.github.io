@@ -33,7 +33,7 @@ Changwang Zhang's research has got lots of media attention and is reported by th
 * 2018.01 - : Senior Researcher at the Tencent Holdings Ltd
   * Advertising Recommendation & User Profiling 
 
-* 2016.6-2017.12: Algorithm Expert at the Alibaba Group
+* 2016.06-2017.12: Algorithm Expert at the Alibaba Group
   * Location Based Service (LBS) Data Mining and Applications
  
 # Services
