@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![Changwang ZHANG](/images/leo_sea_icon.jpg)
+
 Changwang ZHANG is currently a senior researcher and he is a member of CCF Theoretical Computer Science Technical Committee. He received his PhD and MRes degrees from University College London in 2011 and 2015, respectively. He worked at Alibaba on LBS Data Mining from 2016 to 2017, and Tencent on Advertising Recommendation & User Profiling from 2018 to 2022. 
 
 Changwang ZHANG's current interests are the research and application of Information Retrieval (Recommendation & Search), Natural Language Processing, and Big Data Mining. He served as a Senior Program Committee (SPC) Member for the 37th AAAI Conference on Artificial Intelligence (AAAI-23). 
@@ -56,7 +58,7 @@ Changwang Zhang's research has got lots of media attention and is reported by th
 
 # Selected Talks
 
-* **C Zhang**. Panel Talk: Big-data Mining Using Unsupervised Learning and Graph Learning. IJCAI-Tencent Academic and Industrial Conference, 2019. **([pdf](/files/2019_ijcai_taic.pdf))**
-* **C Zhang**. Tencent Campus Recruitment Talk - Beijing University of Posts and Telecommunications. Beijing University of Posts and Telecommunications, 2020. **(pdf)**
-* **C Zhang**. Tencent Campus Recruitment Talk - Huazhong University of Science and Technology. Huazhong University of Science and Technology, 2021. **(pdf)**
-* **C Zhang**. Tencent Campus Recruitment Talk - Universities in the Western US Region. Universities in the Western US Region, 2021. **(pdf)**
+* **C Zhang**. Panel Talk: Big-data Mining Using Unsupervised Learning and Graph Learning. IJCAI-Tencent Academic and Industrial Conference, 2019. **([pdf](/files/2019_ijcai_taic.pdf) [poster](/images/2019_talk_ijcai_booth_talk.jpg))**
+* **C Zhang**. Tencent Campus Recruitment Talk - Beijing University of Posts and Telecommunications. Beijing University of Posts and Telecommunications, 2020. **(pdf [poster](/images/2020_talk_tencent_xiaozhao_bjyd.jpg))**
+* **C Zhang**. Tencent Campus Recruitment Talk - Huazhong University of Science and Technology. Huazhong University of Science and Technology, 2021. **(pdf [poster](/images/2021_talk_tencent_xiaozhao_hzkj.jpg))**
+* **C Zhang**. Tencent Campus Recruitment Talk - Universities in the Western US Region. Universities in the Western US Region, 2021. **(pdf [poster](/images/2022_talk_tencent_xiaozhao_meixi.jpg))**
