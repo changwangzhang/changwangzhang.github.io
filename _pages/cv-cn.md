@@ -58,7 +58,7 @@ redirect_from:
 # 代表讲座
 
 * **张长旺**. 专题讨论: 使用无监督学习和图学习进行大数据挖掘. IJCAI-腾讯学术与产业大会, 2019. **([pdf](/files/2019_ijcai_taic.pdf) [poster](/images/2019_talk_ijcai_booth_talk.jpg))**
-* **张长旺**,应秋芳. IJCAI2019报告-基于无监督学习和图学习的大数据挖掘. 腾讯技术工程公众号, 2019. **([link](https://mp.weixin.qq.com/s/JVTojPzoTfCj-y-ImBPSWw))**
+* **张长旺**, 应秋芳. IJCAI2019报告-基于无监督学习和图学习的大数据挖掘. 腾讯技术工程公众号, 2019. **([link](https://mp.weixin.qq.com/s/JVTojPzoTfCj-y-ImBPSWw))**
 * **张长旺**. 腾讯校园招聘宣讲 - 北京邮电大学. 北京邮电大学, 2020. **(pdf [poster](/images/2020_talk_tencent_xiaozhao_bjyd.jpg))**
 * **张长旺**. 腾讯校园招聘宣讲 - 华中科技大学. 华中科技大学, 2021. **(pdf [poster](/images/2021_talk_tencent_xiaozhao_hzkj.jpg))**
 * **张长旺**. 腾讯校园招聘宣讲 - 美国西部大学专场. 美国西部大学, 2021. **(pdf [poster](/images/2022_talk_tencent_xiaozhao_meixi.jpg))**
