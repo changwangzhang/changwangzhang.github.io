@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![Changwang ZHANG](/images/leo_sea_icon.jpg)
+
 张长旺，高级研究员，CCF理论计算机科学技术委员会委员。 他分别于 2011 年和 2015 年获得伦敦大学学院(UCL)的博士学位和硕士学位。 他2016年至2017年在阿里巴巴从事LBS数据挖掘，2018年至2022年在腾讯从事广告推荐和用户画像。
 
 张长旺目前的研究方向是信息检索（搜推广）、自然语言处理、大数据挖掘的研究与应用。 他曾担任第 37 届 AAAI 人工智能会议 (AAAI-23) 的高级程序委员会 (SPC) 成员。
@@ -55,8 +57,8 @@ redirect_from:
 
 # 代表讲座
 
-* **张长旺**. 专题讨论: 使用无监督学习和图学习进行大数据挖掘. IJCAI-腾讯学术与产业大会, 2019. **([pdf](/files/2019_ijcai_taic.pdf))**
+* **张长旺**. 专题讨论: 使用无监督学习和图学习进行大数据挖掘. IJCAI-腾讯学术与产业大会, 2019. **([pdf](/files/2019_ijcai_taic.pdf) [poster](/images/2019_talk_ijcai_booth_talk.jpg))**
 * **张长旺**,应秋芳. IJCAI2019报告-基于无监督学习和图学习的大数据挖掘. 腾讯技术工程公众号, 2019. **([link](https://mp.weixin.qq.com/s/JVTojPzoTfCj-y-ImBPSWw))**
-* **张长旺**. 腾讯校园招聘宣讲 - 北京邮电大学. 北京邮电大学, 2020. **(pdf)**
-* **张长旺**. 腾讯校园招聘宣讲 - 华中科技大学. 华中科技大学, 2021. **(pdf)**
-* **张长旺**. 腾讯校园招聘宣讲 - 美国西部大学专场. 美国西部大学, 2021. **(pdf)**
+* **张长旺**. 腾讯校园招聘宣讲 - 北京邮电大学. 北京邮电大学, 2020. **(pdf [poster](/images/2020_talk_tencent_xiaozhao_bjyd.jpg))**
+* **张长旺**. 腾讯校园招聘宣讲 - 华中科技大学. 华中科技大学, 2021. **(pdf [poster](/images/2021_talk_tencent_xiaozhao_hzkj.jpg))**
+* **张长旺**. 腾讯校园招聘宣讲 - 美国西部大学专场. 美国西部大学, 2021. **(pdf [poster](/images/2022_talk_tencent_xiaozhao_meixi.jpg))**
