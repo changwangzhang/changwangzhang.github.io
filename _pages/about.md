@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![Changwang ZHANG](/images/leo_scholar_icon_middle.jpg)
+
 Changwang ZHANG is currently a senior researcher and he is a member of CCF Theoretical Computer Science Technical Committee. He received his PhD and MRes degrees from University College London in 2011 and 2015, respectively. He worked at Alibaba on LBS Data Mining from 2016 to 2017, and Tencent on Advertising Recommendation & User Profiling from 2018 to 2022. 
 
 Changwang ZHANG's current interests are the research and application of Information Retrieval (Recommendation & Search), Natural Language Processing, and Big Data Mining. He served as a Senior Program Committee (SPC) Member for the 37th AAAI Conference on Artificial Intelligence (AAAI-23). 
