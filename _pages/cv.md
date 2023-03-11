@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Changwang ZHANG](/images/leo_sea_icon.jpg)
+![Changwang ZHANG](/images/leo_scholar_icon_middle.jpg)
 
 Changwang ZHANG is currently a senior researcher and he is a member of CCF Theoretical Computer Science Technical Committee. He received his MRes and PhD degrees from University College London in 2011 and 2015, respectively. He worked at Alibaba on LBS Data Mining from 2016 to 2017, and Tencent on Advertising Recommendation & User Profiling from 2018 to 2022. 
 
