@@ -20,9 +20,9 @@ Changwang Zhang's research has got lots of media attention and is reported by th
 Changwang Zhang proposes the PromptAppGPT - a low-code prompt-based rapid app development framework, aiming to enable natural language app development based on GPT. PromptAppGPT significantly lowers the barrier to GPT application development, allowing anyone to develop AutoGPT-like applications with a few lines of low code. And PromptAppGPT has been featured in many high-impact medias including the top Chinese AI media [新智元](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw).
 
 **You are wellcome to:**
-1. Join us to collaboratively develop the framework: https://github.com/mleoking/PromptAppGPT/
-2. Visit the website to try the framework: https://promptappgpt.wangzhishi.net/
-3. See the example apps including the 70-line low-code implementation of the AutoGPT-like AI auto-assistant: https://github.com/mleoking/PromptAppGPT/blob/main/PagApps.md#my-autogpt
+1. Join us to collaboratively develop the framework: [https://github.com/mleoking/PromptAppGPT/](https://github.com/mleoking/PromptAppGPT/).
+2. Visit the website to try the framework: [https://promptappgpt.wangzhishi.net/](https://promptappgpt.wangzhishi.net/).
+3. See the example apps including the 70-line low-code implementation of the AutoGPT-like AI auto-assistant: [https://github.com/mleoking/PromptAppGPT/blob/main/PagApps.md#my-autogpt](https://github.com/mleoking/PromptAppGPT/blob/main/PagApps.md#my-autogpt).
 
 **Contacts:** mleoking {at to remove} qq.com
 
