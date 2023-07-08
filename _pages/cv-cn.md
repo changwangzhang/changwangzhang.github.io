@@ -17,6 +17,13 @@ redirect_from:
 
 张长旺的研究受到了很多媒体的关注，并被英国卫报和每日邮报报道。他曾获得腾讯研发卓越金奖、腾讯运营卓越奖、腾讯开源协作奖、腾讯微创新奖等。 在腾讯和阿里巴巴，他面试了200多名应聘者，包括应届毕业生和有社招员工。他曾担任腾讯线下校园招聘官方技术面试官及演讲嘉宾。
 
+张长旺提出了首个基于ChatGPT的自然语言开发框架PromptAppGPT：全自动编译、运行、界面生成。PromptAppGPT大大降低了GPT应用开发的门槛，任何人都可以用几行低代码开发类似AutoGPT的应用。PromptAppGPT已经被许多高影响力的媒体报道，包括中国顶级的人工智能媒体[新智元](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw)。
+
+**我们欢迎：**。
+1. 加入我们，共同开发这个框架：https://github.com/mleoking/PromptAppGPT/
+2. 访问网站试用该框架：https://promptappgpt.wangzhishi.net/
+3. 查看示例应用程序，包括类似AutoGPT的AI自动助手的70行低代码实现：https://github.com/mleoking/PromptAppGPT/blob/main/PagApps.md#my-autogpt
+
 **联系方式:** mleoking {at 去除} qq.com
 
 **研究员招聘和资助:** 我们正在寻找优秀的、积极进取的学生和研究人员，共同致力于信息检索（搜推广）、自然语言处理和大数据挖掘的研究和应用。 请将您的简历和项目通过电子邮件发送给我。
