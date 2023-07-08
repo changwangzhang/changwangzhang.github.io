@@ -19,7 +19,7 @@ redirect_from:
 
 张长旺提出了首个基于ChatGPT的自然语言开发框架PromptAppGPT：全自动编译、运行、界面生成。PromptAppGPT大大降低了GPT应用开发的门槛，任何人都可以用几行低代码开发类似AutoGPT的应用。PromptAppGPT已经被许多高影响力的媒体报道，包括中国顶级的人工智能媒体[新智元](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw)。
 
-**我们欢迎：**。
+**我们欢迎：**
 1. 加入我们，共同开发这个框架：[https://github.com/mleoking/PromptAppGPT/](https://github.com/mleoking/PromptAppGPT/)
 2. 访问网站试用该框架：[https://promptappgpt.wangzhishi.net/](https://promptappgpt.wangzhishi.net/)
 3. 查看示例应用程序，包括类似AutoGPT的AI自动助手的70行低代码实现：[https://github.com/mleoking/PromptAppGPT/blob/main/PagApps.md#my-autogpt](https://github.com/mleoking/PromptAppGPT/blob/main/PagApps.md#my-autogpt)
