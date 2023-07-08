@@ -17,6 +17,13 @@ Changwang ZHANG's current interests are the research and application of Informat
 
 Changwang Zhang's research has got lots of media attention and is reported by the Guardian and the Daily Mail. He received the Tencent Gold Award for Excellence in R&D, the Tencent Operation Excellence Award, the Tencent Open Source Collaboration Award, and the Tencent Micro Innovation Award. For Tencent and Alibaba, he interviewed more than 200 candidates from fresh graduates to experienced hires. And He was the official technical interviewer & speaker for the offline on-site campus recruitment of Tencent.
 
+Changwang Zhang proposes the PromptAppGPT - a low-code prompt-based rapid app development framework, aiming to enable natural language app development based on GPT. PromptAppGPT significantly lowers the barrier to GPT application development, allowing anyone to develop AutoGPT-like applications with a few lines of low code. And PromptAppGPT has been featured in many high-impact medias including the top Chinese AI media [新智元](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw).
+
+**You are wellcome to:**
+1. Join us to collaboratively develop the framework: https://github.com/mleoking/PromptAppGPT/
+2. Visit the website to try the framework: https://promptappgpt.wangzhishi.net/
+3. See the example apps including the 70-line low-code implementation of the AutoGPT-like AI auto-assistant: https://github.com/mleoking/PromptAppGPT/blob/main/PagApps.md#my-autogpt
+
 **Contacts:** mleoking {at to remove} qq.com
 
 **Researchers Hiring and Funding Now:** We are looking for outstanding highly motivated students and researchers to work together on the research and application of Information Retrieval (Recommendation & Search), Natural Language Processing, and Big Data Mining. Please email me with your CV and projects.
