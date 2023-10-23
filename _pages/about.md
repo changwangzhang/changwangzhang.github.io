@@ -12,11 +12,11 @@ redirect_from:
 
 Changwang ZHANG is currently a senior researcher and he is a Standing Committee Member of CCF Theoretical Computer Science Technical Committee. He received his MRes and PhD degrees from University College London in 2011 and 2015, respectively. He worked at Alibaba on LBS Data Mining from 2016 to 2017, and Tencent on Advertising Recommendation & User Profiling from 2018 to 2022. 
 
-Changwang ZHANG's current interests are the research and application of Information Retrieval (Recommendation & Search), Natural Language Processing, and Big Data Mining. He served as a Senior Program Committee (SPC) Member for the 37th AAAI Conference on Artificial Intelligence (AAAI-23). 
+Changwang ZHANG's current interests are the research and application of Information Retrieval (Search, Recommendation, Advertising), Generative AI (LLM, AIGC, Prompt), and Big Data Mining. He served as a Senior Program Committee (SPC) Member for the AAAI Conference on Artificial Intelligence. 
 
 Changwang Zhang's research has got lots of media attention and is reported by the Guardian and the Daily Mail. He received the Tencent Gold Award for Excellence in R&D, the Tencent Operation Excellence Award, the Tencent Open Source Collaboration Award, and the Tencent Micro Innovation Award. For Tencent and Alibaba, he interviewed more than 200 candidates from fresh graduates to experienced hires. And He was the official technical interviewer & speaker for the offline on-site campus recruitment of Tencent.
 
-Changwang Zhang proposes the PromptAppGPT - a low-code prompt-based rapid app development framework, aiming to enable natural language app development based on GPT. PromptAppGPT significantly lowers the barrier to GPT application development, allowing anyone to develop AutoGPT-like applications with a few lines of low code. And PromptAppGPT has been featured in many high-impact media including the top Chinese AI media [新智元](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw).
+Changwang Zhang proposes the PromptAppGPT - a low-code prompt-based rapid app development framework, aiming to enable natural language app development based on GPT. PromptAppGPT significantly lowers the barrier to GPT application development, allowing anyone to develop AutoGPT-like applications with a few lines of low code. And PromptAppGPT has been featured in many high-impact media including the top Chinese AI media: [新智元1](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw), [新智元2](https://mp.weixin.qq.com/s/99ZQB4vm3dqwAQBIYZraBw).
 
 **You are wellcome to:**
 1. Join us to collaboratively develop the framework: [https://github.com/mleoking/PromptAppGPT/](https://github.com/mleoking/PromptAppGPT/).
@@ -42,6 +42,13 @@ Changwang Zhang proposes the PromptAppGPT - a low-code prompt-based rapid app de
 * C Zhang, S Wang, J Liu, S Zhou, P Zhang, X Liu, E Zhu, **C Zhang**. Multi-view Clustering via Deep Matrix Factorization and Partition Alignment. ACM International Conference on Multimedia, 2021. **(ACMMM 2021) (CCF A) ([pdf](/files/2021_acmmm_mvcvdmf.pdf) code)**
 * S Zhou, X Liu, M Li, E Zhu, L Liu, **C Zhang**, J Yin. Multiple kernel clustering with neighbor-kernel subspace segmentation. IEEE transactions on neural networks and learning systems, 2019. **(TNNLS 2019) (CCF B) ([pdf](/files/2019_tnnls_mkcwnkss.pdf) code)**
 * **C Zhang**, S Zhou, E Groppelli, P Pellegrino, I Williams, P Borrow, B M. Chain, C Jolly. Hybrid Spreading Mechanisms and T Cell Activation Shape the Dynamics of HIV-1 Infection. PLOS Computational Biology, 2015. **(PLoS Comput. Biol. 2015) (CCF B) ([pdf](/files/2015_ploscombi_hivhybridspreading.pdf) code)**
+
+# Selected Media Coverage
+
+* [真低代码！首个基于ChatGPT的自然语言开发框架PromptAppGPT：全自动编译、运行、界面生成](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw), 新智元, 2023.
+* [PromptAppGPT重磅更新！AI助手0门槛开发+运行：几十行代码即可实现AutoGPT](https://mp.weixin.qq.com/s/99ZQB4vm3dqwAQBIYZraBw), 新智元, 2023.
+* [HIV spreads like computer worms, say scientists](https://www.theguardian.com/society/2015/apr/02/hiv-spreads-like-computer-worms-say-scientists), The Guardian, 2015.
+* [HIV spreads like a computer worm: Researchers find virus mimics an online infection - and warn early detection is key](https://www.dailymail.co.uk/sciencetech/article-3023671/HIV-spreads-like-computer-virus-Researchers-spread-mimics-online-infection-warn-early-detection-key.html), Daily Mail, 2015.
 
 # Selected Talks
 
