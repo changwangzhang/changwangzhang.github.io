@@ -71,8 +71,6 @@ redirect_from:
 * [HIV spreads like computer worms, say scientists](https://www.theguardian.com/society/2015/apr/02/hiv-spreads-like-computer-worms-say-scientists), 卫报(The Guardian), 2015.
 * [HIV spreads like a computer worm: Researchers find virus mimics an online infection - and warn early detection is key](https://www.dailymail.co.uk/sciencetech/article-3023671/HIV-spreads-like-computer-virus-Researchers-spread-mimics-online-infection-warn-early-detection-key.html), 每日邮报(Daily Mail), 2015.
 
-Daily Mail: HIV spreads like a computer worm: Researchers find virus mimics an online infection - and warn early detection is key.
-
 # 代表讲座
 
 * **张长旺**. 专题讨论: 使用无监督学习和图学习进行大数据挖掘. IJCAI-腾讯学术与产业大会, 2019. **([pdf](/files/2019_ijcai_taic.pdf) [poster](/images/2019_talk_ijcai_booth_talk.jpg))**
