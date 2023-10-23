@@ -13,11 +13,11 @@ redirect_from:
 
 张长旺，高级研究员，CCF理论计算机科学专业委员会常务委员。 他分别于2011年和2015年获得伦敦大学学院(UCL)的硕士和博士学位。 他2016年至2017年在阿里巴巴从事LBS数据挖掘，2018年至2022年在腾讯从事广告推荐和用户画像。
 
-张长旺目前的研究方向是信息检索（搜推广）、自然语言处理、大数据挖掘的研究与应用。 他曾担任第 37 届 AAAI 人工智能会议 (AAAI-23) 的高级程序委员会 (SPC) 成员。
+张长旺目前的研究方向是信息检索（搜推广）、生成式AI(LLM, AIGC)、大数据挖掘的研究与应用。 他曾多次担任人工智能会议AAAI高级程序委员会(SPC)成员。
 
-张长旺的研究受到了很多媒体的关注，并被英国卫报和每日邮报报道。他曾获得腾讯研发卓越金奖、腾讯运营卓越奖、腾讯开源协作奖、腾讯微创新奖等。 在腾讯和阿里巴巴，他面试了200多名应聘者，包括应届毕业生和有社招员工。他曾担任腾讯线下校园招聘官方技术面试官及演讲嘉宾。
+张长旺的研究受到了众多媒体的关注，并被英国卫报和每日邮报报道。他曾获得腾讯研发卓越金奖、腾讯运营卓越奖、腾讯开源协作奖、腾讯微创新奖等。 在腾讯和阿里巴巴，他面试了200多名应聘者，包括应届毕业生和有社招员工。他曾担任腾讯线下校园招聘官方技术面试官及演讲嘉宾。
 
-张长旺提出了首个基于ChatGPT的自然语言开发框架PromptAppGPT：全自动编译、运行、界面生成。PromptAppGPT大大降低了GPT应用开发的门槛，任何人都可以用低代码开发类似AutoGPT的应用。PromptAppGPT已经被许多高影响力的媒体报道，包括中国顶级的人工智能媒体[新智元](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw)。
+张长旺提出了首个基于ChatGPT的自然语言开发框架PromptAppGPT：全自动编译、运行、界面生成。PromptAppGPT大大降低了GPT应用开发的门槛，任何人都可以用低代码开发类似AutoGPT的应用。PromptAppGPT已经被众多高影响力的媒体报道，包括中国顶级的人工智能媒体[新智元1](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw), [新智元2](https://mp.weixin.qq.com/s/99ZQB4vm3dqwAQBIYZraBw)。
 
 **我们欢迎：**
 1. 加入我们，共同开发这个框架：[https://github.com/mleoking/PromptAppGPT/](https://github.com/mleoking/PromptAppGPT/)
@@ -47,8 +47,8 @@ redirect_from:
  
 # 社会服务
 
-* CCF理论计算机科学技术委员会委员
-* 第 37 届 AAAI 人工智能会议 (AAAI-23) 高级程序委员会 (SPC) 委员
+* CCF理论计算机科学技术委员会常务委员
+* AAAI人工智能会议(AAAI-23、24)高级程序委员会(SPC)委员
 * 腾讯线下校园招聘官方技术宣讲官
 * 腾讯犀鸟精英人才计划信息检索方向导师
 
@@ -63,6 +63,15 @@ redirect_from:
 * C Zhang, S Wang, J Liu, S Zhou, P Zhang, X Liu, E Zhu, **C Zhang**. Multi-view Clustering via Deep Matrix Factorization and Partition Alignment. ACM International Conference on Multimedia, 2021. **(ACMMM 2021) (CCF A) ([pdf](/files/2021_acmmm_mvcvdmf.pdf) code)**
 * S Zhou, X Liu, M Li, E Zhu, L Liu, **C Zhang**, J Yin. Multiple kernel clustering with neighbor-kernel subspace segmentation. IEEE transactions on neural networks and learning systems, 2019. **(TNNLS 2019) (CCF B) ([pdf](/files/2019_tnnls_mkcwnkss.pdf) code)**
 * **C Zhang**, S Zhou, E Groppelli, P Pellegrino, I Williams, P Borrow, B M. Chain, C Jolly. Hybrid Spreading Mechanisms and T Cell Activation Shape the Dynamics of HIV-1 Infection. PLOS Computational Biology, 2015. **(PLoS Comput. Biol. 2015) (CCF B) ([pdf](/files/2015_ploscombi_hivhybridspreading.pdf) code)**
+
+# 代表报道
+
+* [真低代码！首个基于ChatGPT的自然语言开发框架PromptAppGPT：全自动编译、运行、界面生成](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw), 新智元, 2023.
+* [PromptAppGPT重磅更新！AI助手0门槛开发+运行：几十行代码即可实现AutoGPT](https://mp.weixin.qq.com/s/99ZQB4vm3dqwAQBIYZraBw), 新智元, 2023.
+* [HIV spreads like computer worms, say scientists](https://www.theguardian.com/society/2015/apr/02/hiv-spreads-like-computer-worms-say-scientists), 卫报(The Guardian), 2015.
+* [HIV spreads like a computer worm: Researchers find virus mimics an online infection - and warn early detection is key](https://www.dailymail.co.uk/sciencetech/article-3023671/HIV-spreads-like-computer-virus-Researchers-spread-mimics-online-infection-warn-early-detection-key.html), 每日邮报(Daily Mail), 2015.
+
+Daily Mail: HIV spreads like a computer worm: Researchers find virus mimics an online infection - and warn early detection is key.
 
 # 代表讲座
 
