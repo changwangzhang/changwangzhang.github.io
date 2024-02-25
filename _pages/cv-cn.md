@@ -69,6 +69,8 @@ redirect_from:
 
 * [真低代码！首个基于ChatGPT的自然语言开发框架PromptAppGPT：全自动编译、运行、界面生成](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw), 新智元, 2023.
 * [PromptAppGPT重磅更新！AI助手0门槛开发+运行：几十行代码即可实现AutoGPT](https://mp.weixin.qq.com/s/99ZQB4vm3dqwAQBIYZraBw), 新智元, 2023.
+* [AFSPP唤醒智能体内心世界：首个支持心理学实验的AI Agent偏好性格塑造框架发布!](https://mp.weixin.qq.com/s/VkzOdQx6Xz21nrxKDx9mog), 旺知识, 2024.
+* [高级检索增强生成技术(RAG)全面指南：原理、分块、编码、索引、微调、Agent、展望](https://mp.weixin.qq.com/s/KKDZmkyUzu1bP1M-9zds-A), 旺知识, 2024.
 * [HIV spreads like computer worms, say scientists](https://www.theguardian.com/society/2015/apr/02/hiv-spreads-like-computer-worms-say-scientists), 卫报(The Guardian), 2015.
 * [HIV spreads like a computer worm: Researchers find virus mimics an online infection - and warn early detection is key](https://www.dailymail.co.uk/sciencetech/article-3023671/HIV-spreads-like-computer-virus-Researchers-spread-mimics-online-infection-warn-early-detection-key.html), 每日邮报(Daily Mail), 2015.
 
