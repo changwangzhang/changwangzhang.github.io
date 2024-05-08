@@ -17,9 +17,9 @@ redirect_from:
 
 张长旺的研究受到了众多媒体的关注，并被英国卫报和每日邮报报道。他曾获得腾讯研发卓越金奖、腾讯运营卓越奖、腾讯开源协作奖、腾讯微创新奖等。 在腾讯和阿里巴巴，他面试了200多名应聘者，包括应届毕业生和有社招员工。他曾担任腾讯线下校园招聘官方技术面试官及演讲嘉宾。
 
-张长旺提出了首个基于ChatGPT的自然语言开发框架PromptAppGPT：全自动编译、运行、界面生成。PromptAppGPT大大降低了GPT应用开发的门槛，任何人都可以用低代码开发类似AutoGPT的应用。PromptAppGPT已经被众多高影响力的媒体报道，包括中国顶级的人工智能媒体：[新智元1](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw), [新智元2](https://mp.weixin.qq.com/s/99ZQB4vm3dqwAQBIYZraBw)。
-
 我们提出EulerFormer模型(SIGIR'24, [pdf](/files/2024-sigir-eulerformer.pdf))，通过复数注意力网络+自适应旋转位置编码，显著提升Transformer模型表达能力和鲁棒性。EulerFormer提供了一个统一的理论框架，用于统一语义信息和位置信息，从而在序列建模中具有更强的表达能力。在EulerFormer中，token之间的语义差异和位置差异都可以直接建模为复向量的统一旋转形式。与之前的方法（如RoPE）相比，EulerFormer 对语义变化更加鲁棒，并具有更优越的理论性质（如可控远程距离衰减）。
+
+张长旺提出了首个基于ChatGPT的自然语言开发框架PromptAppGPT：全自动编译、运行、界面生成。PromptAppGPT大大降低了GPT应用开发的门槛，任何人都可以用低代码开发类似AutoGPT的应用。PromptAppGPT已经被众多高影响力的媒体报道，包括中国顶级的人工智能媒体：[新智元1](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw), [新智元2](https://mp.weixin.qq.com/s/99ZQB4vm3dqwAQBIYZraBw)。
 
 **我们欢迎：**
 1. 加入我们，共同开发这个框架：[https://github.com/mleoking/PromptAppGPT/](https://github.com/mleoking/PromptAppGPT/)
