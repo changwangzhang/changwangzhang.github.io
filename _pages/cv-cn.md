@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Changwang ZHANG](/images/leo_scholar_icon_middle.jpg)
+[//]:<![Changwang ZHANG](/images/leo_scholar_icon_middle.jpg)>
 
 张长旺，高级研究员，CCF理论计算机科学专业委员会常务委员。 他分别于2011年和2015年获得伦敦大学学院(UCL)的硕士和博士学位。 他2016年至2017年在阿里巴巴从事LBS数据挖掘，2018年至2022年在腾讯从事广告推荐和用户画像。
 
