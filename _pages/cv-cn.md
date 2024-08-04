@@ -17,7 +17,9 @@ redirect_from:
 
 张长旺的研究受到了众多媒体的关注，并被英国卫报和每日邮报报道。他曾获得腾讯研发卓越金奖、腾讯运营卓越奖、腾讯开源协作奖、腾讯微创新奖等。 在腾讯和阿里巴巴，他面试了200多名应聘者，包括应届毕业生和有社招员工。他曾担任腾讯线下校园招聘官方技术面试官及演讲嘉宾。
 
-我们提出EulerFormer模型(SIGIR'24, [pdf](/files/2024-sigir-eulerformer.pdf))，通过复数注意力网络+自适应旋转位置编码，显著提升Transformer模型表达能力和鲁棒性。EulerFormer提供了一个统一的理论框架，用于统一语义信息和位置信息，从而在序列建模中具有更强的表达能力。在EulerFormer中，token之间的语义差异和位置差异都可以直接建模为复向量的统一旋转形式。与之前的方法（如RoPE）相比，EulerFormer 对语义变化更加鲁棒，并具有更优越的理论性质（如可控远程距离衰减）。
+我们提出EulerFormer模型(SIGIR'24, [论文](/files/2024-sigir-eulerformer.pdf) [报道](https://mp.weixin.qq.com/s/krsflLxePy4Nm3V9QBYtYw))，通过复数注意力网络+自适应旋转位置编码，显著提升Transformer模型表达能力和鲁棒性。EulerFormer提供了一个统一的理论框架，用于统一语义信息和位置信息，从而在序列建模中具有更强的表达能力。在EulerFormer中，token之间的语义差异和位置差异都可以直接建模为复向量的统一旋转形式。与之前的方法（如RoPE）相比，EulerFormer 对语义变化更加鲁棒，并具有更优越的理论性质（如可控远程距离衰减）。
+
+我们提出了PoseCrafter(ECCV'24，[论文](/files/2024-eccv-posecrafter.pdf) [报道](https://mp.weixin.qq.com/s/8R0E3UJaFhsddkIPP4KUqw))，这是一种可以精确控制灵活姿势的个性化视频生成的方法。利用Stable Diffusion和ControlNet框架，我们精心设计了一个推理方案，无需依赖对应的真实帧，就可以生成高质量个性化数字人动作视频。我们通过包含面部和手部标志的仿射变换矩阵进行直接潜变量编辑。跨多个数据集的全面实验表明，PoseCrafter在8个广泛使用的指标上优于在大量视频上预先训练的基准线。此外，PoseCrafter能够同时遵循来自各种个人或人工编辑的姿势，并在开放域训练视频中保持人类身份。
 
 张长旺提出了首个基于ChatGPT的自然语言开发框架PromptAppGPT：全自动编译、运行、界面生成。PromptAppGPT大大降低了GPT应用开发的门槛，任何人都可以用低代码开发类似AutoGPT的应用。PromptAppGPT已经被众多高影响力的媒体报道，包括中国顶级的人工智能媒体：[新智元1](https://mp.weixin.qq.com/s/_-U56N2CBR9DldaZ8mO-Hw), [新智元2](https://mp.weixin.qq.com/s/99ZQB4vm3dqwAQBIYZraBw)。
 
@@ -57,6 +59,7 @@ redirect_from:
 
 # 代表文章
 * Z Tian, W Zhao, **C Zhang**, X Zhao, Z Ma, J Wen. EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention. ACM SIGIR Conference on Research and Development in Information Retrieval, 2024. **(SIGIR 2024) (CCF A) ([pdf](/files/2024-sigir-eulerformer.pdf) code)**
+* Y Zhong, M Zhao, Z You, X Yu, **C Zhang**, C Li. PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Pose Control, 2024. **(ECCV 2024) (CCF B) ([pdf](/files/2024-eccv-posecrafter.pdf) code)**
 * Y Ye, Z Li, Z Dou, Y Zhu, **C Zhang**, S Wu, Z Cao. Learning from the Wisdom of Crowds: Exploiting Similar Sessions for Session Search. Proceedings of the AAAI Conference on Artificial Intelligence, 2023. **(AAAI 2023) (CCF A) ([pdf](/files/2023-aaai-ssr.pdf) code)**
 * P Zhang, S Wang, L Li, **C Zhang**, X Liu, E Zhu, Z Liu, L Zhou, L Luo. Let the Data Choose: Flexible and Diverse Anchor Graph Fusion for Scalable Multi-View Clustering. Proceedings of the AAAI Conference on Artificial Intelligence, 2023. **(AAAI 2023) (CCF A) ([pdf](/files/2023-aaai-fdagf.pdf) code)**
 * Z Zheng, **C Zhang**, X Gao, G Chen. HIEN: Hierarchical Intention Embedding Network for Click-Through Rate Prediction. ACM SIGIR Conference on Research and Development in Information Retrieval, 2022. **(SIGIR 2022) (CCF A) ([pdf](/files/2022_sigir_hien.pdf) code)**
