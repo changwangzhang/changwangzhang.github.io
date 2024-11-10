@@ -1,7 +1,7 @@
 # 使用changwangzhang.wangzhishi.net作为网址，配置只有url部分进行和修改，其他配置与_config.yml保持一致
 # 这个文件用于在Cloudflare.Pages上面使用Jekyll独立构建个人网站
 # Cloudflare.Pages上面导入changwangzhang.github.io
-# 配置以下构建命令(Build command): bundle exec jekyll build --config _config.ourl.yml
+# 配置以下构建命令(Build command): bundle exec jekyll build --config _config.yml,_config.ourl.yml
 # 配置系统变量(Variables): LC_ALL="C.UTF-8";LANG="en_US.UTF-8";LANGUAGE="en_US.UTF-8"
 
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
