@@ -34,9 +34,7 @@ Changwang Zhang proposes the PromptAppGPT - a low-code prompt-based rapid app de
 
 **Researchers Hiring and Funding Now:** We are looking for outstanding highly motivated students and researchers to work together on the research and application of Information Retrieval (Recommendation & Search), Natural Language Processing, and Big Data Mining. Please email me with your CV and projects.
 
-**WeChat Official Account:** Please follow the WangKnowledge for more updated AI lectures, interviews, and R&D experience in Chinese.  
-
-![Changwang ZHANG's WeChat Official Account](/images/mknow_qrcode.png)
+**WeChat Official Account:** Please follow the ''旺知识'' for more updated AI lectures, interviews, and R&D experience in Chinese.  
 
 # Education
 
