@@ -58,6 +58,10 @@ redirect_from:
 * 腾讯犀鸟精英人才计划信息检索方向导师
 
 # 代表文章
+* B Wang, F Liu, J Chen, X Lou, **C Zhang**, J Wang, Y Sun, Y Feng, C Chen, C Wang. MSL: Not All Tokens Are What You Need for Tuning LLM as a Recommender. ACM SIGIR Conference on Research and Development in Information Retrieval, 2025. **(SIGIR 2025) (CCF A) (pdf code)**
+* B Gan, Y Zhao, T Zhang, J Huang, Y Li, S X Teo, **C Zhang**, W Shi. MASTER: A Multi-Agent System with LLM Specialized MCTS. North American Chapter of the Association for Computational Linguistics, 2025. **(NAACL 2025) (CCF B) (pdf code)**
+* R Feng, Z Tian, Q Peng, J Mao, X Zhao, D Hu, **C Zhang**. MGIPF: Multi-Granularity Interest Prediction Framework for Personalized Recommendation. ACM SIGIR Conference on Research and Development in Information Retrieval, 2025. **(SIGIR 2025) (CCF A) (pdf code)**
+* H Huang, X Lou, **C Zhang**, C Chen, K Dong, F Lu, H Lei, Y Wang, W Zhou, J Wang. Training-free Periodic Interest Augmentation in Incremental Recommendation. ACM SIGIR Conference on Research and Development in Information Retrieval, 2025. **(SIGIR 2025) (CCF A) (pdf code)**
 * Z Tian, W Zhao, **C Zhang**, X Zhao, Z Ma, J Wen. EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention. ACM SIGIR Conference on Research and Development in Information Retrieval, 2024. **(SIGIR 2024) (CCF A) ([pdf](/files/2024-sigir-eulerformer.pdf) code)**
 * Y Zhong, M Zhao, Z You, X Yu, **C Zhang**, C Li. PoseCrafter: One-Shot Personalized Video Synthesis Following Flexible Pose Control, 2024. **(ECCV 2024) (CCF B) ([pdf](/files/2024-eccv-posecrafter.pdf) code)**
 * Y Ye, Z Li, Z Dou, Y Zhu, **C Zhang**, S Wu, Z Cao. Learning from the Wisdom of Crowds: Exploiting Similar Sessions for Session Search. Proceedings of the AAAI Conference on Artificial Intelligence, 2023. **(AAAI 2023) (CCF A) ([pdf](/files/2023-aaai-ssr.pdf) code)**
