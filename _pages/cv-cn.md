@@ -25,6 +25,7 @@ redirect_from:
 
 # 代表工作
 
+* 我们研发视觉语言模型(VLM)原生表征大模型OEmbedding，提出创新数据课程和训练机制显著提升多模态表征效果，OEmbedding-v1-7B达成国际图文表征榜单MMEB-v1第4 ([20250911数据](/images/OEmbedding-v1-7B-MMEB-v1-4th.png))。
 * 我们提出OThink-MR1([论文](/files/2025-arxiv-othink-mr1.pdf) [报道](https://mp.weixin.qq.com/s/gWGn02IQpO-K75sshqeUfg))多模态推理模型和框架, 这一技术使业界突破多模态泛化推理能力。我们提出GRPO-D动态强化学习算法，GRPO-D在多模态任务评估中展现出了卓越的跨任务泛化能力，相较于监督微调（SFT）平均实现了超过 61.63% 的相对性能提升。
 * 我们提出EulerFormer模型(SIGIR'24, [论文](/files/2024-sigir-eulerformer.pdf) [报道](https://mp.weixin.qq.com/s/krsflLxePy4Nm3V9QBYtYw))，通过复数注意力网络+自适应旋转位置编码，显著提升Transformer模型表达能力和鲁棒性。EulerFormer提供了一个统一的理论框架，用于统一语义信息和位置信息，从而在序列建模中具有更强的表达能力。在EulerFormer中，token之间的语义差异和位置差异都可以直接建模为复向量的统一旋转形式。与之前的方法（如RoPE）相比，EulerFormer 对语义变化更加鲁棒，并具有更优越的理论性质（如可控远程距离衰减）。
 * 我们提出了PoseCrafter(ECCV'24，[论文](/files/2024-eccv-posecrafter.pdf) [报道](https://mp.weixin.qq.com/s/8R0E3UJaFhsddkIPP4KUqw))，这是一种可以精确控制灵活姿势的个性化视频生成的方法。利用Stable Diffusion和ControlNet框架，我们精心设计了一个推理方案，无需依赖对应的真实帧，就可以生成高质量个性化数字人动作视频。我们通过包含面部和手部标志的仿射变换矩阵进行直接潜变量编辑。跨多个数据集的全面实验表明，PoseCrafter在8个广泛使用的指标上优于在大量视频上预先训练的基准线。此外，PoseCrafter能够同时遵循来自各种个人或人工编辑的姿势，并在开放域训练视频中保持人类身份。
