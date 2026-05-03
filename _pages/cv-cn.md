@@ -94,6 +94,7 @@ redirect_from:
 * [PromptAppGPT重磅更新！AI助手0门槛开发+运行：几十行代码即可实现AutoGPT](https://mp.weixin.qq.com/s/99ZQB4vm3dqwAQBIYZraBw), 新智元, 2023.
 * [​2023年人工智能体(AI Agent)开发与应用全面调研：概念、原理、开发、应用、挑战、展望](https://mp.weixin.qq.com/s/CVmqZvePPMQgTs3JULyEZQ), 旺知识, 2024.
 * [高级检索增强生成技术(RAG)全面指南：原理、分块、编码、索引、微调、Agent、展望](https://mp.weixin.qq.com/s/KKDZmkyUzu1bP1M-9zds-A), 旺知识, 2024.
+* [2022业界广告推荐技术最新进展与趋势-阿里、腾讯、字节、微软](https://zhuanlan.zhihu.com/p/567920965), 旺知识, 2023.
 * [HIV spreads like computer worms, say scientists](https://www.theguardian.com/society/2015/apr/02/hiv-spreads-like-computer-worms-say-scientists), 卫报(The Guardian), 2015.
 * [HIV spreads like a computer worm: Researchers find virus mimics an online infection - and warn early detection is key](https://www.dailymail.co.uk/sciencetech/article-3023671/HIV-spreads-like-computer-virus-Researchers-spread-mimics-online-infection-warn-early-detection-key.html), 每日邮报(Daily Mail), 2015.
 
