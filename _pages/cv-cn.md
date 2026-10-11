@@ -11,22 +11,23 @@ redirect_from:
 
 [//]:<![Changwang ZHANG](/images/leo_scholar_icon_middle.jpg)>
 
-张长旺，他是CCF理论计算机科学专业委员会常务委员，他是OPPO研究院AI智能体检索技术负责人。 他分别于2011年和2015年获得伦敦大学学院(UCL)的硕士和博士学位。 他2016年至2017年在阿里巴巴从事LBS数据挖掘，2018年至2022年在腾讯从事广告推荐和用户画像，2022年至2024年在华为从事推荐广告和大模型智能体。
+张长旺，他是CCF理论计算机科学专业委员会主任扩大会议成员，他是奇瑞AI研究院多模态AI科学家。 他分别于2011年和2015年获得伦敦大学学院(UCL)的硕士和博士学位。 他2016年至2017年在阿里巴巴从事LBS数据挖掘，2018年至2022年在腾讯从事广告推荐和用户画像，2022年至2024年在华为从事推荐广告和大模型智能体，2024年至2026年在OPPO研究院从事多模态大模型智能体。
 
-张长旺目前的研究方向是AI检索（RAG、多模态、搜推广），AI智能体（意图识别、智能体框架），AI大模型（大推理模型R1/O1）。 他曾多次担任人工智能会议AAAI高级程序委员会(SPC)成员。
+张长旺目前的研究方向是AI大模型（多模态、智能体模型），AI检索（RAG、搜推广），AI智能体（意图识别、记忆、智能体框架）。 他曾多次担任人工智能会议AAAI高级程序委员会(SPC)成员。
 
-张长旺的研究受到了众多媒体的关注，并被英国卫报和每日邮报报道。他曾获得腾讯研发卓越金奖、腾讯运营卓越奖、腾讯开源协作奖、腾讯微创新奖、2012实验室总裁奖、最佳技术规划奖等。 他面试了300多名应聘者，包括应届毕业生和有社招员工。他曾担任腾讯线下校园招聘官方技术面试官及演讲嘉宾。
+张长旺的研究受到了众多媒体的关注，并被英国卫报和每日邮报报道。他曾获得腾讯研发卓越金奖、腾讯运营卓越奖、腾讯开源协作奖、腾讯微创新奖、2012实验室总裁奖、最佳技术规划奖等。 他面试了500多名应聘者，包括应届毕业生和有社招员工。他曾担任腾讯线下校园招聘官方技术面试官及演讲嘉宾。
 
 **联系方式:** mleoking {at 去除} qq.com
 
-**研究员招聘和资助:** 我们正在寻找优秀的、积极进取的学生和研究人员，共同致力于信息检索（搜推广）、自然语言处理和大数据挖掘的研究和应用。 请将您的简历和项目通过电子邮件发送给我。
+**研究员招聘和资助:** 我们正在寻找优秀的、积极进取的学生和研究人员，共同致力于多模态大模型/智能体的研究和应用。 请将您的简历和项目通过电子邮件发送给我。
 
 **微信公众号:** 请关注《旺知识》公众号，获得更多中文AI讲座、采访、研发经验。
 
 # 代表工作
 
 * 我们提出DeepImageSearch(ICML'26, [论文](/files/2026-icml-deepimagesearch.pdf) [报道](https://mp.weixin.qq.com/s/dIV0uYTCcgLJe-OdeZUN-Q))，创立智能体视觉记忆深度检索基准，提出双记忆和多模态工具增强ImageSeeker智能体框架，让AI真正拥有了“视觉记忆探索能力”，重构深度图像检索范式。
-* 我们研发视觉语言模型(VLM)原生表征大模型OEmbedding，提出创新数据课程和训练机制显著提升多模态表征效果，OEmbedding-v1-7B达成国际图文表征榜单MMEB-v1第4 ([20250911数据](/images/OEmbedding-v1-7B-MMEB-v1-4th.png))。
+* 我们研发视觉语言模型(VLM)原生表征大模型OEmbedding，提出TSEmbed突破多模态大模型多任务表征能力(ECCV'26 [论文](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/8536.pdf))，OEmbedding-v1-7B达成国际图文表征榜MMEB-v1第4 ([20250911数据](/images/OEmbedding-v1-7B-MMEB-v1-4th.png))。
+* 我们提出运动图灵测试(Motion Turing Test)(CVPR'26, [论文](https://openaccess.thecvf.com/content/CVPR2026/papers/Li_Towards_Motion_Turing_Test_Evaluating_Human-Likeness_in_Humanoid_Robots_CVPR_2026_paper.pdf) [报道](https://baijiahao.baidu.com/s?id=1861055858677447559&wfr=spider&for=pc))，提供业界首个机器人动作拟人量化评估基准。
 * 我们提出OThink-MR1([论文](/files/2025-arxiv-othink-mr1.pdf) [报道](https://mp.weixin.qq.com/s/gWGn02IQpO-K75sshqeUfg))多模态推理模型和框架, 这一技术使业界突破多模态泛化推理能力。我们提出GRPO-D动态强化学习算法，GRPO-D在多模态任务评估中展现出了卓越的跨任务泛化能力，相较于监督微调（SFT）平均实现了超过 61.63% 的相对性能提升。
 * 我们提出EulerFormer模型(SIGIR'24, [论文](/files/2024-sigir-eulerformer.pdf) [报道](https://mp.weixin.qq.com/s/krsflLxePy4Nm3V9QBYtYw))，通过复数注意力网络+自适应旋转位置编码，显著提升Transformer模型表达能力和鲁棒性。EulerFormer提供了一个统一的理论框架，用于统一语义信息和位置信息，从而在序列建模中具有更强的表达能力。在EulerFormer中，token之间的语义差异和位置差异都可以直接建模为复向量的统一旋转形式。与之前的方法（如RoPE）相比，EulerFormer 对语义变化更加鲁棒，并具有更优越的理论性质（如可控远程距离衰减）。
 * 我们提出了PoseCrafter(ECCV'24，[论文](/files/2024-eccv-posecrafter.pdf) [报道](https://mp.weixin.qq.com/s/8R0E3UJaFhsddkIPP4KUqw))，这是一种可以精确控制灵活姿势的个性化视频生成的方法。利用Stable Diffusion和ControlNet框架，我们精心设计了一个推理方案，无需依赖对应的真实帧，就可以生成高质量个性化数字人动作视频。我们通过包含面部和手部标志的仿射变换矩阵进行直接潜变量编辑。跨多个数据集的全面实验表明，PoseCrafter在8个广泛使用的指标上优于在大量视频上预先训练的基准线。此外，PoseCrafter能够同时遵循来自各种个人或人工编辑的姿势，并在开放域训练视频中保持人类身份。
